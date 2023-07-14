@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.content{
+  padding-top: 2rem;
+  min-height: 55vh;
+}
+.mb{
+  margin-bottom: 1rem;
+}
+footer {
+  margin-top: 2rem;
+  padding-top: 10px;
+  color: #888;
+  border-top: 1px solid #888;
+}
